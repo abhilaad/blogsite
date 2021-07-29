@@ -93,7 +93,7 @@ export default function BodyLeft() {
           <div className="col-12 col-md-6 col-lg-4">
             <figure className="figure">
               <img
-                src="http://placehold.it/600x450"
+                src="https://via.placeholder.com/600x450"
                 className="img-fluid img-thumbnail"
                 alt="Figure"
               />
@@ -102,7 +102,7 @@ export default function BodyLeft() {
           <div className="col-12 col-md-6 col-lg-4">
             <figure className="figure">
               <img
-                src="http://placehold.it/600x450"
+                src="https://via.placeholder.com/600x450"
                 className="img-fluid img-thumbnail"
                 alt="Figure"
               />
@@ -111,7 +111,7 @@ export default function BodyLeft() {
           <div className="col-12 col-md-6 col-lg-4">
             <figure className="figure">
               <img
-                src="http://placehold.it/600x450"
+                src="https://via.placeholder.com/600x450"
                 className="img-fluid img-thumbnail"
                 alt="Figure"
               />

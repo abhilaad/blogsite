@@ -17,7 +17,7 @@ export default function BodyLeft() {
         </header>
         <figure className="figure">
           <img
-            src="http://placehold.it/800x600"
+            src="https://via.placeholder.com/800x600"
             className="figure-img img-fluid"
             alt="Figure"
           />
